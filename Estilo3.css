@@ -1,0 +1,103 @@
+body{
+     background-image: url("Fondo.jpg");
+  background-repeat: no-repeat; 
+  background-position: center top; 
+  background-size: cover; 
+}
+.co1 {
+  position: absolute;
+  top: 73%;     
+  left: 50%;    
+  transform: translate(-30%, -75%); 
+  background-color: #fce4ec;
+  width: 700px;
+  height: 400px;
+  border-radius: 18px;
+  border: 3px solid #b37b8d; 
+}
+.op1 {
+  position: absolute;
+top: 72%;   
+  left: 42%;    
+  transform: translate(-30%, -75%); 
+  background-image: url("op.jpg");
+  background-size: cover; 
+  border-radius: 10px;
+  width: 120px;
+  height: 120px;
+  cursor: pointer;
+  border: 2px solid#b89bb4;  
+  display: flex;            
+}
+.op2 {
+  position: absolute;
+top: 72%;    
+  left: 53%;    
+  transform: translate(-30%, -75%); 
+  background-image: url("op.jpg");
+  background-size: cover; 
+  border-radius: 10px;
+  width: 120px;
+  height: 120px;
+  cursor: pointer;
+  border: 2px solid#b89bb4;  
+  display: flex;            
+}
+.op3 {
+  position: absolute;
+top: 72%;    
+  left: 64%;    
+  transform: translate(-30%, -75%); 
+  background-image: url("op.jpg");
+  background-size: cover; 
+  border-radius: 10px;
+  width: 120px;
+  height: 120px;
+  cursor: pointer;
+  border: 2px solid#b89bb4;  
+  display: flex;            
+}
+.op4 {
+  position: absolute;
+  top: 72%;     
+  left: 75%;    
+  transform: translate(-30%, -75%); 
+  background-image: url("op.jpg");
+  background-size: cover; 
+  border-radius: 10px;
+  width: 120px;
+  height: 120px;
+  cursor: pointer;
+  border: 2px solid#b89bb4;  
+  display: flex;            
+}
+
+
+.op1:hover,
+.op2:hover,
+.op3:hover,
+.op4:hover{
+    background-image: url("op2.jpg");
+}
+
+.cua {
+    text-align: center;
+    color: #7a2332;
+}
+
+.gif {
+position: fixed;
+  top: 43%;     
+  left: 80%;  
+  transform: translate(-30%, -75%); 
+  display: flex;  
+
+}
+.gif2 {
+ position: fixed;
+  top: 43%;     
+  left: 8%;    
+  transform: translate(-30%, -75%); 
+  display: flex;  
+
+}

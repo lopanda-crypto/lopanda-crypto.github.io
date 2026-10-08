@@ -1,0 +1,150 @@
+body{
+     background-image: url("Fondo.jpg");
+  background-repeat: no-repeat; 
+  background-position: center top; 
+  background-size: cover; 
+}
+.co1 {
+  position: absolute;
+  top: 73%;     
+  left: 50%;    
+  transform: translate(-30%, -75%); 
+  background-color: #fce4ec;
+  width: 700px;
+  height: 400px;
+  border-radius: 18px;
+  border: 3px solid #b37b8d; 
+}
+.cosa1 {
+  position: absolute;
+  top: 48%;     
+  left: 42%;    
+  transform: translate(-30%, -75%); 
+  background-color:#DFDEF0;
+  width: 300px;
+  height: 50px;
+  border-radius: 18px;
+  border: 3px solid #9E7E8E; 
+}
+.cosa2 {
+  position: absolute;
+  top: 60%;     
+  left: 38%;    
+  transform: translate(-30%, -75%); 
+  background-color: #F7C9AF;
+  width: 300px;
+  height: 50px;
+  border-radius: 18px;
+  border: 3px solid #9E7E8E; 
+}
+.cosa3 {
+  position: absolute;
+  top: 72%;     
+  left: 42%;    
+  transform: translate(-30%, -75%); 
+  background-color: #DFDEF0;
+  width: 300px;
+  height: 50px;
+  border-radius: 18px;
+  border: 3px solid #9E7E8E; 
+}
+
+.cosa4 {
+  position: absolute;
+  top: 72%;     
+  left: 69%;    
+  transform: translate(-30%, -75%); 
+  background-color:#DFDEF0;
+  width: 300px;
+  height: 50px;
+  border-radius: 18px;
+  border: 3px solid #9E7E8E; 
+}
+
+.cosa5 {
+  position: absolute;
+  top: 60%;     
+  left: 73%;    
+  transform: translate(-30%, -75%); 
+  background-color: #F7C9AF;
+  width: 300px;
+  height: 50px;
+  border-radius: 18px;
+  border: 3px solid #9E7E8E; 
+}
+
+.cosa6 {
+  position: absolute;
+  top: 48%;     
+  left: 69%;    
+  transform: translate(-30%, -75%); 
+  background-color: #DFDEF0;
+  width: 300px;
+  height: 50px;
+  border-radius: 18px;
+  border: 3px solid #9E7E8E; 
+}
+.ojos2 {
+  position: absolute;
+  top: 84%;     
+  left: 40%;    
+  transform: translate(-30%, -75%); 
+  width: 150px;
+  height: 50px;
+  border-radius: 18px;
+}
+.son {
+  position: absolute;
+  top: 85%;     
+  left: 60%;    
+  transform: translate(-30%, -75%); 
+  width: 80px;
+  height: 80px;
+  border-radius: 18px;
+}
+.col {
+  position: absolute;
+  top: 85%;     
+  left: 80%;    
+  transform: translate(-30%, -75%); 
+  width: 80px;
+  height: 80px;
+  border-radius: 18px;
+}
+
+.re {
+  position: absolute;
+top: 35%;   
+  left: 88%;    
+  transform: translate(-30%, -75%); 
+  background-image: url("afuera.jpg");
+  background-size: cover; 
+  border-radius: 50px;
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+  border: 2px solid#b89bb4;  
+  display: flex;            
+}
+.cua {
+    text-align: center;
+    color: #7a2332;
+}
+
+.cua2 {
+    text-align: center;
+    color: #7a2332;
+    font-size: 20px;
+}
+
+.sig{
+  position: absolute;
+  top: 55%;
+  left: 56%;
+  border-radius: 10px;
+  width: 100px;
+  height: 30px;
+  background-color: rgb(248, 202, 229);
+}
+
+

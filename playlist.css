@@ -1,0 +1,62 @@
+body{
+     background-image: url("Fondo.jpg");
+  background-repeat: no-repeat; 
+  background-position: center top; 
+  background-size: cover; 
+}
+.co1 {
+  position: absolute;
+  top: 73%;     
+  left: 50%;    
+  transform: translate(-30%, -75%); 
+  background-color: #fce4ec;
+  width: 880px;
+  height: 500px;
+  border-radius: 18px;
+  border: 3px solid #b37b8d; 
+}
+
+.co2 {
+  position: absolute;
+  top: 70%;     
+  left: 77%;    
+  transform: translate(-30%, -75%); 
+  background-color: #fce4ec;
+  width: 320px;
+  height: 300px;
+  border-radius: 18px;
+  border: 3px solid #b37b8d; 
+}
+
+.cua2 {
+    text-align: center;
+    color: #52264e;
+    font-size: 18px;
+}
+
+.re {
+  position: absolute;
+top: 22%;   
+  left: 96%;    
+  transform: translate(-30%, -75%); 
+  background-image: url("afuera.jpg");
+  background-size: cover; 
+  border-radius: 50px;
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+  border: 2px solid#b89bb4;  
+  display: flex;            
+}
+.cua {
+    text-align: center;
+    color: #7a2332;
+}
+
+.lista{
+  position: absolute;
+  top: 25%;
+  left: 31.5%;
+  width: 500px;
+  height: 400px;
+}

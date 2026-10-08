@@ -1,0 +1,69 @@
+body{
+     background-image: url("Fondo.jpg");
+  background-repeat: no-repeat; 
+  background-position: center top; 
+  background-size: cover; 
+}
+.co1 {
+  position: absolute;
+  top: 73%;     
+  left: 50%;    
+  transform: translate(-30%, -75%); 
+  background-color: #fce4ec;
+  width: 700px;
+  height: 400px;
+  border-radius: 18px;
+  border: 3px solid #b37b8d; 
+}
+.si {
+  position: absolute;
+  top: 80%;     
+  left: 50%;    
+  transform: translate(-30%, -75%); 
+  background: linear-gradient(135deg, #fce3b8, #f5c4d4);
+  border-radius: 10px;
+  width: 120px;
+  height: 60px;
+  cursor: pointer;
+  border: 2px solid#b89bb4;  
+  display: flex;            
+  justify-content: center;   
+  align-items: center;    
+  font-size: 18px;  
+  font-weight: 600;
+  color: #5c1d29;
+}
+.no {
+  position: absolute;
+  top: 80%;     
+  left: 67%;    
+  transform: translate(-30%, -75%); 
+  background: linear-gradient(135deg, #fce3b8, #f5c4d4);
+  width: 120px;
+  height: 60px;
+  cursor: pointer;
+  border-radius: 10px;               
+  border: 2px solid#b89bb4;  
+  display: flex;            
+  justify-content: center;   
+  align-items: center;   
+  font-size: 18px;  
+  font-weight: 600;
+  color: #5c1d29;   
+}
+.si:hover,
+.no:hover {
+  background: linear-gradient(135deg, #f5c4d4, #fce3b8); /* Invierte el degradado al pasar el mouse */
+  
+}
+.cua {
+    text-align: center;
+    color: #7a2332;
+}
+.gif {
+    position: absolute;
+  top: 58%;     
+  left: 45%;    
+  transform: translate(-30%, -75%); 
+  display: flex;  
+}
